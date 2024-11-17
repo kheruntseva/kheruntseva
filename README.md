@@ -2,8 +2,6 @@
 
 ![ ](jap.jpg)
 
-<img scr="jap.jpg" width="720" height="946">
-
 <a href="https://linkedin.com/in/херунцева дарья" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="херунцева дарья" height="30" width="40" /></a>
 <a href="https://instagram.com/kheruntseva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kheruntseva" height="30" width="40" /></a>
 </p>
