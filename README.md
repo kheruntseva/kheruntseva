@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kheruntseva&label=Profile%20views&color=0e75b6&style=flat" alt="kheruntseva" /> </p>
 
-![ ](jap.jpg)
+![ ](tobe.jpg)
 
 <a href="https://linkedin.com/in/daria-kheruntseva-75a5a532a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="херунцева дарья" height="30" width="40" /></a>
 <a href="https://instagram.com/kheruntseva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kheruntseva" height="30" width="40" /></a>
