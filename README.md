@@ -6,7 +6,7 @@
   <img src="tobe.jpg" alt="Daria Kheruntseva" width="600" />
 </p>
 
-<h2 align="center">✨ Daria Kheruntseva ✨</h2>
+<h2 align="center"> Daria Kheruntseva </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daria-kheruntseva-75a5a532a" target="blank">
@@ -21,7 +21,6 @@
 <h3 align="center">🚀 About Me</h3>
 <p align="center">
   👋 Hi there! I'm Dasha, a passionate developer from Belarus<br>
-  💻 I'm into web programming and open to learning new things
 </p>
 
 <h3 align="center">🛠️ Tech Stack</h3>
